@@ -1,0 +1,6 @@
+region = "us-west-1"
+ami = "ami-0688e81a759ef0462"
+instance-type = "t2.micro"
+keypair = "key3"
+name = "appserver"
+env = "dev"
